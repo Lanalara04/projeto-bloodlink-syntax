@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BloodLink</string>
+    <string name="voltar">Voltar</string>
+    <string name="perfil">Meu perfil</string>
+</resources>

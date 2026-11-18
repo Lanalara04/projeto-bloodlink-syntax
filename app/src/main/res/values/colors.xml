@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#B71C1C</color>
+    <color name="primary_dark">#7F0000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="bg">#FAF4F4</color>
+    <color name="text_dark">#212121</color>
+    <color name="text_muted">#616161</color>
+    <color name="chip_idle">#FDECEA</color>
+    <color name="chip_disabled">#EEEEEE</color>
+    <color name="nivel_critico">#C62828</color>
+    <color name="nivel_baixo">#F9A825</color>
+    <color name="nivel_medio">#7CB342</color>
+    <color name="nivel_estavel">#2E7D32</color>
+</resources>
